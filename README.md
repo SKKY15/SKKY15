@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Hales Yanis from Algeria<br>- Back-end web devloper Node.js<br>- Front-end web developer Bootsrap 5<br>- Native Android Front-end developer</p>
+<p align="left">I'm Hales Yanis from Algeria<br>- Native Android Full-stack developer</p><br>- Back-end web devloper Node.js
 
 ###
 
